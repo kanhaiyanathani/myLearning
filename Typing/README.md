@@ -1,15 +1,14 @@
 
-https://www.typing.com/student/lessons - This is a great website to practice your typing, primarily best for learning to type without looking at keyboard  
-Best for learning:
-- finger placement
-- accuracy
-- speed
+https://www.typing.com/student/lessons - This is a great website to practice your typing, primarily best for learning correct finger placements and enableing you to type without looking your keyboard  
+
+- best for learning finger placement
+- for improving accuracy and speed
 - trophies and certificates whenever you acheive certain milestone
 - game like enviornment
 
 I also use https://www.livechat.com/typing-speed-test/#/ occasaionaly just to measure my speed outside of typing.com  
 
-Below is the scores for my typing
+### Below table tracks my typing scores  
 On https://www.livechat.com/typing-speed-test/#/:
 Date | WPM | CPM | Accuracy(%)
 -- | -- | -- | --  
