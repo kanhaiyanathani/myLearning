@@ -81,16 +81,16 @@ Date | WPM | Accuracy(%) | lesson type
 12-04-2022 | 26 | 99
 12-04-2022 | 41 | 96
 12-04-2022 | 36 | 97
-17-04-2022 | 30 | 96
-17-04-2022 | 29 | 97
-17-04-2022 | 32 | 98
-17-04-2022 | 33 | 98
-17-04-2022 | 30 | 96
-17-04-2022 | 32 | 98
-17-04-2022 | 31 | 95
-17-04-2022 | 27 | 96
-17-04-2022 | 27 | 96
-17-04-2022 | 30 | 96
+17-04-2022 | 30 | 96 | your problem keys
+17-04-2022 | 29 | 97 | your problem keys
+17-04-2022 | 32 | 98 | your problem keys
+17-04-2022 | 33 | 98 | your problem keys
+17-04-2022 | 30 | 96 | your problem keys
+17-04-2022 | 32 | 98 | your problem keys
+17-04-2022 | 31 | 95 | your problem keys
+17-04-2022 | 27 | 96 | your problem keys
+17-04-2022 | 27 | 96 | your problem keys
+17-04-2022 | 30 | 96 | your problem keys
 17-04-2022 | 33 | 95 | reinforcement
 17-04-2022 | 24 | 95 | reinforcement
 17-04-2022 | 30 | 93 | reinforcement
