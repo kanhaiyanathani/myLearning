@@ -137,4 +137,6 @@ Date | WPM | Accuracy(%) | lesson type | sub-lesson
 22-04-2022 | 33 | 96 | tests | 1 page
 22-04-2022 | 33 | 96 | tests | 1 min
 22-04-2022 | 29 | 96 | tests | 3 min
+22-04-2022 | 18 | 99 | coding essentials | CSS
+23-04-2022 | 20 | 98 | coding essentials | CSS
 
