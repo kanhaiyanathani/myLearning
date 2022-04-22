@@ -1,5 +1,5 @@
 
-https://www.typing.com/student/lessons - This is a great website to practice your typing, primarily best for learning correct finger placements and enableing you to type without looking your keyboard  
+https://www.typing.com/student/lessons - This is a great website to practice your typing, primarily best for learning correct finger placements and enables you to type smoothly without looking at your keyboard  
 
 - best for learning finger placement
 - for improving accuracy and speed
@@ -100,3 +100,37 @@ Date | WPM | Accuracy(%) | lesson type
 17-04-2022 | 26 | 95 | reinforcement
 17-04-2022 | 28 | 97 | reinforcement
 17-04-2022 | 26 | 98 | reinforcement
+22-04-2022 | 30 | 96 | reinforcement
+22-04-2022 | 30 | 96 | reinforcement
+22-04-2022 | 23 | 96 | reinforcement
+22-04-2022 | 31 | 99 | reinforcement
+22-04-2022 | 34 | 98 | reinforcement
+22-04-2022 | 33 | 99 | reinforcement
+22-04-2022 | 43 | 100 | reinforcement
+22-04-2022 | 41 | 98 | reinforcement
+22-04-2022 | 44 | 97 | reinforcement
+22-04-2022 | 42 | 98 | reinforcement
+22-04-2022 | 36 | 97 | reinforcement
+22-04-2022 | 36 | 99 | reinforcement
+22-04-2022 | 33 | 100 | reinforcement
+22-04-2022 | 40 | 98 | reinforcement
+22-04-2022 | 36 | 99 | reinforcement
+22-04-2022 | 43 | 100 | reinforcement
+22-04-2022 | 35 | 92 | reinforcement
+22-04-2022 | 35 | 95 | reinforcement
+22-04-2022 | 41 | 96 | reinforcement
+22-04-2022 | 32 | 94 | reinforcement
+22-04-2022 | 32 | 98 | reinforcement
+22-04-2022 | 34 | 97 | reinforcement
+22-04-2022 | 35 | 99 | reinforcement
+22-04-2022 | 42 | 100 | reinforcement
+22-04-2022 | 26 | 91 | reinforcement
+22-04-2022 | 33 | 91 | reinforcement
+22-04-2022 | 33 | 98 | reinforcement
+22-04-2022 | 34 | 99 | reinforcement
+22-04-2022 | 30 | 100 | reinforcement
+22-04-2022 | 35 | 95 | reinforcement
+22-04-2022 | 24 | 99 | reinforcement
+22-04-2022 | 31 | 93 | reinforcement
+22-04-2022 | 31 | 95 | reinforcement
+22-04-2022 | 30 | 96 | reinforcement
