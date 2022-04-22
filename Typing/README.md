@@ -44,7 +44,7 @@ Date | WPM | CPM | Accuracy(%)
 
 On https://www.typing.com/student/lessons :
 Date | WPM | Accuracy(%) | lesson type | sub-lesson
--- | -- | -- | --
+-- | -- | -- | -- | --
 11-04-2022 | 45 | 97
 11-04-2022 | 34 | 98
 11-04-2022 | 36 | 95
