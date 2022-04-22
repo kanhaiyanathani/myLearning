@@ -1,2 +1,3 @@
-following JavaScript30 course by @wesbos here: https://courses.wesbos.com/account
-Also following JavaScript basics tutorial here: https://www.w3schools.com/js/
+- following JavaScript30 course by @wesbos here: https://courses.wesbos.com/account  
+- Also following JavaScript basics tutorial here: https://www.w3schools.com/js/  
+- Have practiced JavaScript frome here also: https://www.typing.com/student/lessons
