@@ -6,7 +6,7 @@ https://www.typing.com/student/lessons - This is a great website to practice you
 - trophies and certificates whenever you acheive certain milestone
 - game like enviornment
 
-I also use https://www.livechat.com/typing-speed-test/#/ occasaionaly just to measure my speed outside of typing.com  
+I also use https://www.livechat.com/typing-speed-test/#/ occasionally just to measure my speed outside of typing.com  
 
 ### Below table tracks my typing scores  
 On https://www.livechat.com/typing-speed-test/#/:
@@ -43,7 +43,7 @@ Date | WPM | CPM | Accuracy(%)
 
 
 On https://www.typing.com/student/lessons :
-Date | WPM | Accuracy(%) | lesson type
+Date | WPM | Accuracy(%) | lesson type | sub-lesson
 -- | -- | -- | --
 11-04-2022 | 45 | 97
 11-04-2022 | 34 | 98
@@ -134,3 +134,7 @@ Date | WPM | Accuracy(%) | lesson type
 22-04-2022 | 31 | 93 | reinforcement
 22-04-2022 | 31 | 95 | reinforcement
 22-04-2022 | 30 | 96 | reinforcement
+22-04-2022 | 33 | 96 | tests | 1 page
+22-04-2022 | 33 | 96 | tests | 1 min
+22-04-2022 | 29 | 96 | tests | 3 min
+
