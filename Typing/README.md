@@ -147,4 +147,39 @@ Date | WPM | Accuracy(%) | lesson type | sub-lesson
 22-04-2022 | 29 | 96 | tests | 3 min
 22-04-2022 | 18 | 99 | coding essentials | CSS
 23-04-2022 | 20 | 98 | coding essentials | CSS
-
+08-05-2022 | 26 | 97 | reinforcement | paragraph
+08-05-2022 | 29 | 97 | reinforcement | paragraph
+08-05-2022 | 35 | 97 | reinforcement | paragraph
+08-05-2022 | 30 | 97 | reinforcement | paragraph
+08-05-2022 | 31 | 96 | reinforcement | paragraph
+08-05-2022 | 38 | 99 | reinforcement | paragraph
+08-05-2022 | 35 | 98 | reinforcement | paragraph
+08-05-2022 | 38 | 96 | reinforcement | paragraph
+08-05-2022 | 22 | 95 | reinforcement | alpha data entry
+08-05-2022 | 23 | 96 | reinforcement | alpha data entry
+08-05-2022 | 22 | 97 | reinforcement | alpha data entry
+08-05-2022 | 26 | 96 | reinforcement | alpha data entry
+08-05-2022 | 26 | 98 | reinforcement | alpha data entry
+08-05-2022 | 26 | 96 | reinforcement | alpha data entry
+08-05-2022 | 28 | 98 | reinforcement | alpha data entry
+08-05-2022 | 23 | 99 | reinforcement | alpha data entry
+08-05-2022 | 25 | 97 | reinforcement | alpha data entry
+08-05-2022 | 23 | 95 | reinforcement | alpha data entry
+08-05-2022 | 24 | 95 | reinforcement | alpha data entry
+08-05-2022 | 23 | 96 | reinforcement | alpha data entry
+08-05-2022 | 27 | 97 | reinforcement | alpha data entry
+08-05-2022 | 26 | 97 | reinforcement | alpha data entry
+08-05-2022 | 28 | 98 | reinforcement | alpha data entry
+08-05-2022 | 26 | 97 | reinforcement | alpha data entry
+08-05-2022 | 25 | 96 | reinforcement | alpha data entry
+08-05-2022 | 22 | 96 | reinforcement | alpha data entry
+08-05-2022 | 28 | 94 | reinforcement | alpha data entry
+08-05-2022 | 28 | 98 | reinforcement | alpha data entry | redo
+08-05-2022 | 22 | 95 | reinforcement | alpha data entry
+08-05-2022 | 27 | 97 | reinforcement | alpha data entry
+08-05-2022 | 29 | 96 | reinforcement | alpha data entry
+08-05-2022 | 28 | 95 | reinforcement | alpha data entry
+08-05-2022 | 28 | 95 | reinforcement | alpha data entry
+08-05-2022 | 28 | 94 | reinforcement | alpha data entry
+08-05-2022 | 31 | 97 | reinforcement | alpha data entry | redo
+08-05-2022 | 21 | 96 | reinforcement | alphanumeric data entry
