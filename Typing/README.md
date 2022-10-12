@@ -204,3 +204,9 @@ Date | WPM | Accuracy(%) | lesson type | sub-lesson
 08-05-2022 | 28 | 94 | reinforcement | alpha data entry
 08-05-2022 | 31 | 97 | reinforcement | alpha data entry | redo
 08-05-2022 | 21 | 96 | reinforcement | alphanumeric data entry
+13-10-2022 | 34 | 95 | test | 3 min
+13-10-2022 | 33 | 94 | test | 3 min
+13-10-2022 | 28 | 96 | test | 3 min
+13-10-2022 | 34 | 97 | test | 3 min
+13-10-2022 | 35 | 95 | test | 3 min
+13-10-2022 | 33 | 94 | test | 3 min
