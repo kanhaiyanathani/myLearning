@@ -53,3 +53,53 @@ Some common tools used in the industry for each of the components of an ML syste
 
 ### Serverless Computing:
 Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. "Serverless" is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.
+
+### Continual learning:
+Why?
+- The major challenge for any ML system is Data distribution shift
+- We need to continuosly update our model, but what should be the frequency of that? Its more of an infrastructure problem
+- Test in production(proactivity checking the performance and updating the model) vs Model monitoring(passively checking performance of model)
+- It should be maintainable and adaptable to the changing environment
+
+How?
+- We shouldn't update our model with every new data in production, otherwise catastrophic forgetting might occur
+- We should update in batches of data, learning is stable that way
+- we shouldn't update our existing model(champion) with the new updated model(challenger) unless we have tested it well in production
+
+<img width="540" alt="Screenshot 2023-03-29 at 4 34 40 PM" src="https://user-images.githubusercontent.com/17162465/228514545-4b3d4aa9-8725-4fe0-82b8-56ac3895c743.png">
+
+- Stateless re-training(training again with entire data) vs Stateful training(fine-tuning with new data)
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/17162465/228529396-81e13c1a-868f-4654-9e29-fcf0720206b5.png">
+
+- Most company do stateless re-training, but you require to store all your data for this which eventually have privacy concerns, whereas for stateful training you only train on the new data so you don't require to store all the data.
+- However, the companies who does stateful training also do training from scratch sometimes, to calibrate the model time to time.  They also run boths training in parallel and then combine both updated models using parameter server
+- Its about setting up infrastructure for continual learning, so we can trigger it whenever any data distribution shift detected 
+
+Model updates, two types:
+1. Model iteration: here Model's architechture gets changed, either new feature addition or new layer in the model
+2. Data iteration: Only new data
+
+We do stateful training only for Data iterations currently, doing it for model iteration is still in research(Model Surgery)
+
+##### Fast continual learning use case
+- Data distribution shift can happens quickly sometime, like sudden surge in demand of a ride sharing requests, the continual learning architecture should be fast enough to tackle the request
+- It helps with cold start problem, like recommending for new users
+
+##### Challenges
+- Fresh data access, pulling from data warehouses will be slow, need to direct pull and process real-time streaming data using Kafka or Apache flink
+
+### MLOps
+
+link: https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+##### The article mentions four different levels of MLOps maturity that organizations may go through as they adopt and improve their ML development practices. These levels are:
+
+- Ad Hoc: At this level, ML development is done on an ad hoc basis with little to no standardization or automation. There is no formal process for data management, model training, or deployment, and each team member may use their own tools and practices.
+
+- Managed: At this level, some standardization and automation is introduced. There may be some shared tools and processes for data management, model training, and deployment, but there is still room for improvement and inconsistency across teams.
+
+- Defined: At this level, there is a standardized, defined process for ML development, with shared tools and practices across teams. There is also greater automation of tasks such as data cleaning, feature engineering, and model training, which leads to faster iteration times and greater reproducibility.
+
+- Optimized: At this level, the ML development process is highly optimized and automated. There are advanced tools and practices in place for data management, model training, and deployment, and teams are able to quickly iterate and deploy high-quality models. Monitoring, logging, and testing are also built into the pipeline to ensure that models remain accurate and reliable over time.
+
+The article emphasizes that it is important for organizations to continually improve and evolve their MLOps practices to move up through these levels of maturity. This can be done through a combination of tooling, processes, and organizational culture changes.
+
