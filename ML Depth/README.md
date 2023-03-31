@@ -1,6 +1,9 @@
 #### Calibration
 
 #### Quantile-loss
+For regression task, we want to predict the confidence interval, we do so by predicting for different quantiles, more on it here:
+https://medium.com/analytics-vidhya/prediction-intervals-in-forecasting-quantile-loss-function-18f72501586f#:~:text=As%20the%20name%20suggests%2C%20the,predict%2090%25%20of%20the%20times.&text=For%20a%20set%20of%20predictions%2C%20the%20loss%20will%20be%20its%20average.  
+For a quantile q, the regression loss function is defined as: $$L(y_i^p,y_i) = max(q(y_i^p-y_i),(q-1)(y_i^p-y_i))$$
 
 #### K-means clustering
 Wiki: ```k-means clustering is a method of vector quantization, originally from signal processing, 
