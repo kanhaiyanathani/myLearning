@@ -21,7 +21,7 @@ where, $a(i)= d(i, \mu_{C_i})$ is the distance of $i^{th}$ point from its cluste
 
 #### Feature Importance
 
-#### Correlation
+#### Correlation (Pearson vs Spearman)
 article: https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8  
 pearson gives the linear correlation whereas spearman gives the monotonic correlation(need not be linear)
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/17162465/229291126-49c06c14-adc2-4f05-a31f-bf346e3773bb.png">
