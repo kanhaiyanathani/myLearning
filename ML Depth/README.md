@@ -19,9 +19,32 @@ It is generally used to select optimal value of K(number of clusters), its defin
 $$SC = \max_k \frac{1}{N} \sum_i \frac{b(i)-a(i)}{\max(a(i),b(i))}$$
 where, $a(i)= d(i, \mu_{C_i})$ is the distance of $i^{th}$ point from its cluster mean and $b(i)=\min_{C_j \neq C_i} d(i,\mu_{C_j})$ is minimum of distances from other cluster's mean
 
+relying only on mean of silhouette values may not be wise as per: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html  
+
 #### Feature Importance
 
 #### Correlation (Pearson vs Spearman)
 article: https://towardsdatascience.com/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8  
-pearson gives the linear correlation whereas spearman gives the monotonic correlation(need not be linear)
-<img width="676" alt="image" src="https://user-images.githubusercontent.com/17162465/229291126-49c06c14-adc2-4f05-a31f-bf346e3773bb.png">
+pearson gives the linear correlation whereas spearman gives the monotonic correlation(need not be linear)  
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/17162465/229291126-49c06c14-adc2-4f05-a31f-bf346e3773bb.png">  
+
+#### Gradient Boosting: XgBoost vs LightGBM
+article: https://neptune.ai/blog/xgboost-vs-lightgbm  
+XgBoost: Levle-wise tree growth  
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/17162465/229379956-2aee7153-ea77-4ddc-9600-1e5bc1cd199e.png">  
+
+LightGBM: Leaf-wise tree growth  
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/17162465/229380002-499ac404-8613-4537-99a6-134a031e3857.png">  
+
+
+#### BatchNormalization
+article: https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739  
+4 parameters for each feature:
+1. $\gamma$ : scaling and trainable parameter
+2. $\beta$ : shift and trainable
+3. $\mu$ : moving average, not trainable, its used during inference
+4. $\sigma^2$ : moving variance, not trainable, its used during inference
+
+another good article: https://towardsdatascience.com/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/17162465/229380464-e33aa006-3cf3-44f4-bca9-c0708810e3f8.png">
+
