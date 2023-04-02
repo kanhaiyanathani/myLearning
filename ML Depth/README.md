@@ -39,12 +39,12 @@ LightGBM: Leaf-wise tree growth
 
 #### BatchNormalization
 article: https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739  
-4 parameters for each feature:
+Four parameters for each feature:
 1. $\gamma$ : scaling and trainable parameter
 2. $\beta$ : shift and trainable
 3. $\mu$ : moving average, not trainable, its used during inference
 4. $\sigma^2$ : moving variance, not trainable, its used during inference
 
-another good article: https://towardsdatascience.com/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f
-<img width="656" alt="image" src="https://user-images.githubusercontent.com/17162465/229380464-e33aa006-3cf3-44f4-bca9-c0708810e3f8.png">
+another good article: https://towardsdatascience.com/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f  
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/17162465/229380464-e33aa006-3cf3-44f4-bca9-c0708810e3f8.png">
 
