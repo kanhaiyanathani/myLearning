@@ -48,3 +48,10 @@ Four parameters for each feature:
 another good article: https://towardsdatascience.com/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f  
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/17162465/229380464-e33aa006-3cf3-44f4-bca9-c0708810e3f8.png">
 
+### RMSE vs RMSLE
+Quote: ```RMSLE metric only considers the relative error between and the Predicted and the actual value and the scale of the error is not significant. On the other hand, RMSE value Increases in magnitude if the scale of error increases.```
+article: https://medium.com/analytics-vidhya/root-mean-square-log-error-rmse-vs-rmlse-935c6cc1802a  
+
+### QuantileTransformer
+It can convert any distribution into normal or uniform distribution
+```from sklearn.preprocessing import QuantileTransformer```
