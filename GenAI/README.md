@@ -29,3 +29,9 @@
 - https://openai.com/research/instruction-following#sample4
 - Pre-Trained -> SFT -> Reward -> RL 
 <img width="1218" alt="image" src="https://github.com/kanhaiyanathani/myLearning/assets/17162465/08c6078d-79fe-47ed-98a8-8a9e34b3d3cb">
+
+
+### Diffusion Model:
+- Good short Course: https://learn.deeplearning.ai/diffusion-models/lesson/6/controlling
+- Goal: given some images of sprites, generate similar images
+<img width="666" alt="image" src="https://github.com/kanhaiyanathani/myLearning/assets/17162465/393059ea-9d97-4c4f-950d-409b1c548d11">
