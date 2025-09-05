@@ -35,6 +35,8 @@ XgBoost: Levle-wise tree growth
 
 LightGBM: Leaf-wise tree growth  
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/17162465/229380002-499ac404-8613-4537-99a6-134a031e3857.png">  
+Interesting fact:  
+<img width="790" height="973" alt="image" src="https://github.com/user-attachments/assets/c03f820a-e86f-404a-82b4-20abf7f14cc7" />
 
 
 #### BatchNormalization
